@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<drjava version="drjava-20160913-225446">
+  <project autorefresh="false" build="classes/" main="src.Lab04a" root="" work="src/">
+    <createjar file=""/>
+    <source>
+      <file active="true" name="src/MyJFrame.java" package="src" timestamp="26-Mar-2018 10:39:45">
+        <select from="2606" to="2606"/>
+        <scroll column="1934" row="0"/>
+      </file>
+      <file name="src/Lab04a.java" package="src" timestamp="26-Mar-2018 10:37:35">
+        <select from="2606" to="2606"/>
+        <scroll column="1934" row="0"/>
+      </file>
+    </source>
+    <included/>
+    <excluded/>
+    <collapsed/>
+    <classpath/>
+    <breakpoints/>
+    <watches/>
+    <bookmarks/>
+    <preferences/>
+  </project>
+</drjava>
